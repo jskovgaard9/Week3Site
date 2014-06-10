@@ -1,0 +1,15 @@
+name: "Week 3 Site"
+description: "my description of the site"
+
+url: "http://jskovgaard9.github.io/Week3Site/"
+baseurl: "/Week3Site"
+#top 3 always use quotes for best practice
+paginate: 10
+
+
+markdown: rdiscount
+#something that the server is heading, marking parsils down
+permalink: pretty
+#full words that are generated
+pygments: true
+#text renderer
